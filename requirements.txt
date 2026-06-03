@@ -1,0 +1,22 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.23
+pandas>=1.5
+pillow>=9.0
+tqdm>=4.64
+matplotlib>=3.6
+scikit-learn>=1.1
+PyYAML>=6.0
+
+# USFM
+timm>=0.9
+
+# FetalCLIP
+open-clip-torch>=2.24
+
+# OpenUS / VMamba wrapper
+fvcore>=0.1.5
+einops>=0.6
+triton
+causal-conv1d
+mamba-ssm
